@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dum spiro spero an humble representation of the state of our woollen manufacturers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36822</idno>
+            <idno type="STC">Wing D2519</idno>
+            <idno type="STC">ESTC R235</idno>
+            <idno type="EEBO-CITATION">11774937</idno>
+            <idno type="OCLC">ocm 11774937</idno>
+            <idno type="VID">48943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 27:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dum spiro spero an humble representation of the state of our woollen manufacturers.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Dum spiro spero.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48943:1"/>
+            <pb facs="tcp:48943:1"/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>M SPIRO SPERO.</hi>
+            </p>
+            <p>An Humble Repreſentation OF THE STATE OF OUR WOOLLEN MANUFACTURES.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48943:2"/>
+            <pb facs="tcp:48943:2"/>
+            <p n="1">1. IT's evident to moſt Thinking People, <hi>That the ut<g ref="char:EOLhyphen"/>most Endeavours are ſtill uſed by the</hi> French <hi>King, to obtain that in a</hi> Peace, <hi>which he could not procure by a</hi> WAR, <hi>By Supplanting us in our Woollen Manufactures.</hi>
+            </p>
+            <p>And if ſome Extraordinary Care be not taken, he is in a likelier way to ſucceed, having the chiefeſt of our Allies as hearty on his ſide, in carrying on this Deſign, as they were on ours, in carrying on the War.</p>
+            <p>The Advantages obtained by a <hi>French</hi> Intereſt in the be<g ref="char:EOLhyphen"/>ginning of the Reign of King <hi>Charles</hi> the Second, in in<g ref="char:EOLhyphen"/>vading the Right of the Ancient and long-eſtabliſht Com<g ref="char:EOLhyphen"/>pany of Merchant-Adventurers of <hi>England,</hi> and putting the <hi>French</hi> Merchant upon an Equal Foot in Trade with the <hi>Engliſh,</hi> by taking off Aliens-Duties, the Ancient Re<g ref="char:EOLhyphen"/>venue of the Crown; being corroborated by a Law made in the beginning of the Reign of His Preſent Majeſty King <hi>William,</hi> which in the Heat of Friendſhip, gave away our Merchandize to gratifie our Neighbours, hath prevailed to an alteration of the Guardianſhip and Care of our Woollen Manufactures for <hi>Flanders, Germany, Holland,</hi> and the <hi>Eaſt-Country,</hi> in point of Inſpection, Merchandize and Navigation; to which Parts Two Thirds of our Woollen Manufactures are Exported.</p>
+            <p>The Good Genius of this Preſent Time, the beginning of the New Century, tending to a Conſideration of this Notable Commodity of ours, the which there is not the like in any Foreign Parts, as is expreſt in the Statute of <hi>Edward</hi> the Sixth of Bleſſed Memory— I will endea<g ref="char:EOLhyphen"/>vour (to the beſt of my Judgment) to repreſent the true
+<pb n="4" facs="tcp:48943:3"/>
+State of our Woollen Manufactures, as they now ſtand, and the Diſcouragements they labour under, by which the good or bad effect of this alteration to the Publick, may ſomewhat appear— And inſtead of Improvement un<g ref="char:EOLhyphen"/>der this Foreign Guardianſhip, I find the caſe of our Wool<g ref="char:EOLhyphen"/>len Manufactures to be much alike to the Man in the Pa<g ref="char:EOLhyphen"/>rable, that went down from <hi>Jeruſalem</hi> to <hi>Jericho, and fell among Thieves, that robb'd him of his raiment, wounded him, and left him half dead,</hi> &amp;c.</p>
+            <p n="2">II. It is manifeſt, <hi>That as theſe Merchant-Aliens increaſe in</hi> England, <hi>the Woollen Manufactures increaſt in a like pro<g ref="char:EOLhyphen"/>portion in Foreign Parts, and the</hi> French <hi>became conſiderable Merchants with our Woollen Manufactures, in</hi> Spain, Turky <hi>and other parts.</hi>
+            </p>
+            <p>Good Proof was made before a Committee of Parlia<g ref="char:EOLhyphen"/>ment, by the Inſpection of two <hi>Frenchmens</hi> Books, <hi>That the Exportation of our Wooll was carried on by theſe men—</hi> Printed Tickets were given out in <hi>Holland</hi> to give notice of the Sale of conſiderable quantities of <hi>Engliſh</hi> Wooll, and reported by ſome, that the <hi>Dutch</hi> Men-of-War that came out to fight the <hi>French,</hi> were aſſiſting in carrying over <hi>Fullers-Earth,</hi> and returned home not empty-hand<g ref="char:EOLhyphen"/>ed of; a little reſemblance, if ſo, to the Woman in the Fable, that was afflicted with a Dimneſs in her Sight, and agreed with a famous Occuliſt that anointed her Eyes with a certain Material that took away her ſight wholly, for a time, and then robb'd her of a good piece of Houſhold-ſtuff— This Practice comes up to the Letter of my <hi>Si<g ref="char:EOLhyphen"/>mile— </hi>To aſcertain the loſs to our Poor in this parti<g ref="char:EOLhyphen"/>cular, I will here ſet down a Calculation made by the Ho<g ref="char:EOLhyphen"/>nourable Sir <hi>Matthew Hale,</hi> of the diſtinct value of the Wooll, and the Workmanſhip:</p>
+            <pb n="5" facs="tcp:48943:3"/>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">In a <hi>Courſe Medley Cloth,</hi> containing 32 Yards long; to the making this Cloth 90 pound of Wooll, 54 of <hi>ab,</hi> 34 of <hi>warp,</hi> 2 of <hi>mixture,</hi> at one Shilling <hi>per</hi> pound.</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1. Parting and Picking—</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>2. Colouring—</cell>
+                     <cell>00</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>3. Breaking and Spinning the <hi>Ab,—</hi>
+                     </cell>
+                     <cell>01</cell>
+                     <cell>07</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>4. Breaking and Spinning the <hi>Warp</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>5. Cards and Oil—</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>6. Weaving, Spooling and Warping</cell>
+                     <cell>01</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>7. Milling and Burling—</cell>
+                     <cell>00</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>8. Shearing and Dreſſing—</cell>
+                     <cell>00</cell>
+                     <cell>18</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>9. Drawing—</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>10. Carriage and Factorage—</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">11</cell>
+                     <cell role="total">15</cell>
+                     <cell role="total">00</cell>
+                  </row>
+                  <row>
+                     <cell>Out of which deducting the Materials of Wooll, Cards and Oil,—</cell>
+                     <cell>05</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>There remains for Expence of Workmanſhip</cell>
+                     <cell role="total">06</cell>
+                     <cell role="total">05</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>In our Fineſt Manufactures a Calculation is thus made, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="2">One Pack of our fineſt Kemb'd Wooll, containing twelve Score, I compute to be worth at this time—</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Spinning of this into the Fineſt Worſted, coſt 5 <hi>s. per</hi> Pound—</cell>
+                     <cell>60</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Four Ounces thus ſpun, will make a pair of Hoſe worth 5 <hi>s.</hi> the Knitting—</cell>
+                     <cell>240</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>This Pack ſo knit, will make 80 dozen of Hoſe, which pay Cuſtom, 7½ <hi>per</hi> dozen</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">302</cell>
+                     <cell role="total">10</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The <hi>Medium</hi> in our Woollen-Manufactures I take to be one Third Wooll, two Thirds Workmanſhip.</p>
+            <pb n="6" facs="tcp:48943:4"/>
+            <p n="3">III. Since this alteration of the Merchandize of our Woollen Manufactures, greater quantities have been Ex<g ref="char:EOLhyphen"/>ported White, and not fully manufactured, which has ſunk the imployment of many Occupations, and hindred the conſumption of many of our Native Materials which are uſed in Dying, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">IV. The Reputation of our <hi>Engliſh</hi> Manufactures (which in former time was famous at all Foreign Markets) has been wounded by theſe Foreign Interlopers— When extraordinary care has been taken in <hi>France</hi> of late years to improve their own. The Price has been always beat down, and extraordinary Meaſure required, which has forc'd the Maker upon ſlight making, and extraordinary ſtraining. Cloth of an ordinary quality has been mark'd by theſe Foreign Buyers with Marks of our beſt Makers of Cloth, and ſent over as Cloth made by them, and the moſt fallaci<g ref="char:EOLhyphen"/>ous ways us'd to ruine the Reputation of our Goods, and ſupplant the <hi>Engliſh</hi> Merchants. Seals, Tillets, Coats of Arms, Numbers, all counterfeited by a foreign Interloper, as was prov'd in <hi>Weſtminſter-Hall</hi> by Mr. <hi>Banks—</hi> and hereby an Odium has bin brought upon <hi>Engliſh</hi> Goods, when no con<g ref="char:EOLhyphen"/>ſumer of Cloth, either at home or abroad, when he finds himſelf abus'd and cheated, but does reſent the fact.</p>
+            <p>The <hi>Hudſons-Bay</hi> Company (as is credibly told) ſold a parcel of Strained Cloth to the <hi>Indians,</hi> with whom they Traffick for the Skins of Wild Beaſts, and the next time they came, the <hi>Indians</hi> told them they had ſold them thiev<g ref="char:EOLhyphen"/>ing-Cloth, and ſtole it from them again, and would never permit the like abuſe; we read of Chriſtians in the Primi<g ref="char:EOLhyphen"/>tive times <hi>in the Skins of wild beaſts;</hi> lo! wild Beaſts here in the Skins of Chriſtians, cheating of <hi>Indians.</hi> A Bur<g ref="char:EOLhyphen"/>gher-woman at <hi>Hamburg</hi> bought ſome of this Strained Cloth to make her Children Garments, which ſhrunk ſo abomi<g ref="char:EOLhyphen"/>nably, that her Children appear'd in a New Faſhion, and
+<pb n="7" facs="tcp:48943:4"/>
+ſhe brought them for a Sight to the Shop where ſhe bought the Cloth, the Man that ſold it, perceiving the matter, broke out into the higheſt admiration, and bleſt himſelf at the miraculous growth of the Children, and hereby took off the edge of the Womans Paſſion.</p>
+            <p>A Welch Woman bought of a Clothier in <hi>Hereford</hi> Fair as much Broad-Cloth as would make her a Waſtcoat, and it was apply'd to that uſe, and all well; but after<g ref="char:EOLhyphen"/>wards meeting with ſome wet, the Waſtcoat ſhrunk ſo much, that ſhe was forc'd upon an Ingraffment, and which added to her Misfortune, ſhe could not procure any thing near to the Colour. The next Fair, with her Waſtcoat on, ſhe met her Chapman, and treated him in Welch very roughly, which being not underſtood by the Clothier, ſhe began to ſalute him with Stones; and the Abuſe ap<g ref="char:EOLhyphen"/>pearing ſo viſible by the different Colour of the Cloth, all her Neighbours flock'd in to her Aſſiſtance, and the Clothier was forc'd upon a Reſumption; and he often told me he was glad he came off ſo well. Were all the ſhrinking Contracts that has been made with the Govern<g ref="char:EOLhyphen"/>ment ſince the Revolution, in a juſt Proportion made good, it would enable His Majeſty to pay back part of our Taxes, according to the Example of Queen <hi>Elizabeth,</hi> who here<g ref="char:EOLhyphen"/>by won the Hearts of her Subjects, that all the Freehold<g ref="char:EOLhyphen"/>ers (in whom is the chiefeſt Strength of this Kingdom) were turn'd into a Standing-Army, and put up Beacons upon the higheſt Hills, that one County might give notice to each other, if any Invaſion happen'd: And hereby ſhe humbled the proud <hi>Spaniard,</hi> who was then putting up for Univerſal Monarch, and furniſhed the diſtreſſed States with her friendly Aſſiſtance, part of which Money is ſaid to be owing us at this time, or a Free Right of Traffick at <hi>Dort,</hi> for <hi>Engliſh</hi> Merchants, in lieu thereof.</p>
+            <p>A Merchant in <hi>Amſterdam</hi> advanc'd Ten thouſand Pounds
+<pb n="8" facs="tcp:48943:5"/>
+to pay our Army in <hi>Flanders,</hi> by way of Exchange, for <hi>England,</hi> at Twenty five Shillings ſix Pence <hi>Flemiſh,</hi> for a Pound <hi>Sterling</hi> in <hi>England;</hi> which gain'd him Twenty ſeven Pounds two Shillings ten Pence <hi>per Cent.</hi> according to the allow'd Par of Exchange, of Thirty five Shillings <hi>Flemiſh</hi> for a Pound <hi>Sterling</hi> in <hi>England,</hi> and inveſted this Ten thouſand Pounds in <hi>England,</hi> in Tallies, at Forty five <hi>per Cent.</hi> which made in Tallies Twenty two thouſand two hundrrd twenty two Pounds four Shillings and five Pence. Theſe Tallies being ingrafted into the Bank, pro<g ref="char:EOLhyphen"/>duce now the Annual Revenue (at Ten <hi>per Cent.</hi> which the Bank affords) of Two thouſand two hundred twenty two Pounds four Shillings five Pence <hi>per Annum,</hi> for Seven thouſand two hundred eighty five Pounds ſixteen Shillings eight Pence, at firſt advanc'd.</p>
+            <p>The King, by his Officer at <hi>Exon,</hi> deliver'd One thou<g ref="char:EOLhyphen"/>ſand Pounds in mill'd Money, which pay'd for Serges bought for a <hi>Dutch</hi> Merchant there, and took Bills for the like Value, payable One Month after Date, to his Officers of Exciſe in <hi>London,</hi> by a <hi>Dutch</hi> Merchant, who with his Money bought Exchequer-Notes at Eight <hi>per Cent.</hi> profit, and paid his Bills; which made our <hi>Engliſh</hi> Treaſure ſhrink, as did the <hi>Welch</hi> Woman's Waſtcoat.</p>
+            <p>And as this Extraordinary Effluction of our Treaſure tends to a Conſumption in <hi>England,</hi> it will certainly make a Pleuriſie in <hi>Holland;</hi> both dangerous Diſtempers. It was never known in <hi>Holland</hi> (before our late Wars) that Merchants bred their Sons above their own Imployment, who are now become the Sparks of <hi>Chriſtendom;</hi> Hats and Coats ſo daub'd with Gold Lace, that they paſs for <hi>Dutch</hi> Counts, <hi>Harpalus a Como Eques ab aure rupe,</hi> tho' in their Behaviour a little beneath a true-bred Gentleman: Aſto<g ref="char:EOLhyphen"/>niſh'd at nothing more in <hi>England,</hi> than our <hi>Leaden-Hall</hi> Market, having been chiefly converſant in their Minority with Herring-Barrels. Had the Merchant-Adventurers
+<pb n="9" facs="tcp:48943:5"/>
+been preſerved in their T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de, this Inconve<g ref="char:EOLhyphen"/>niency could have never come upon us, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in all likeli<g ref="char:EOLhyphen"/>hood the <hi>Exchange</hi> had never been brought ſo low: I am ſure there is no Preſident for it; but if ſo, what had been loſt in the Shire had been got in the Hundred.</p>
+            <p>V. During ſuch time that our Woollen-Manufactures were exported by <hi>Engliſh</hi> Merchants, a good Correſpon<g ref="char:EOLhyphen"/>dence was held between Merchants and Clothiers; moſt Cloth bought in Cuſtom; and if any Complaint came from the Pack-houſe abroad, the Clothier was ſure to hear of it from the Merchant; Marks wove into the Cloth, which continued from Father to Son; ſome Cloth-Marks a good Legacy; and a conſtant Courſe of Trade carried on. Sir <hi>Matthew Hale</hi> well obſerves, That nothing doth oppreſs our Poor ſo much as Stops in Trade; which is now in the Power of theſe Foreign Buyers to tranſact as they pleaſe. Since a Foreign Factory has been ſettled in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> the Management of the Cloth Trade has fallen into the Hands of Factors; moſt Foreign Buyers of Cloth be<g ref="char:EOLhyphen"/>ing diſabled to buy of the Clothiers in the City of <hi>Lon<g ref="char:EOLhyphen"/>don:</hi> And theſe Buyers of Cloth ſerving Shop-keepers abroad with ſmall Parcels, as they ſend their Patterns, a Quantity of Cloth is always left at Market, at the Ma<g ref="char:EOLhyphen"/>ker's Charge, and the Clothier a Stranger to whom his Cloth is ſold; no Certainty in the Marks of Cloth, which for<g ref="char:EOLhyphen"/>merly denoted the true ſorts; the ſame Man's Cloth in one Factor's hand a Stark-Mark, and in another ſome other Figure in Silk; Quantities of Cloth ſent into Packers Hou<g ref="char:EOLhyphen"/>ſes from the Publick Market, in the preſent Courſe of Trade, and returned into the Market again; which occa<g ref="char:EOLhyphen"/>ſions a great Expence to the Clothier. Theſe Factors, to procure a clandeſtine Profit to themſelves, have given great Incouragement to Wool-Broggers, who are now be<g ref="char:EOLhyphen"/>come very numerous, and a great Oppreſſion to the Clothing-Trade;
+<pb n="10" facs="tcp:48943:6"/>
+and hereby our Woollen Manufactures are load<g ref="char:EOLhyphen"/>ed with an unneceſſary Charge. Theſe Factors, to pro<g ref="char:EOLhyphen"/>mote their own Intereſt, have brought on a long Credit in the Sale of Cloth, which hath been freely given by them to <hi>French</hi> Merchants and others; and hereby many Foreigners have wound themſelves into the Trading Stock of this Kingdom, and then took Sanctuary in ſome Privi<g ref="char:EOLhyphen"/>leged Places in this Kingdom, or withdrawn themſelves into Foreign Parts; by which means the Trading Stock of this Kingdom is almoſt deſtroy'd, and looks like a Con<g ref="char:EOLhyphen"/>trivance of State.</p>
+            <p>Above Two hundred thouſand Pounds of the Clothing Stock have been loſt by Foreigners in few Years. Twenty thouſand Pounds was ſtopp'd in Trade by one Interloper that ſerved <hi>Dutch</hi> Merchants the laſt Year; Twenty thou<g ref="char:EOLhyphen"/>ſand Pounds more is ſtopp'd this Year by a <hi>French</hi> Mer<g ref="char:EOLhyphen"/>chant. Should an <hi>Engliſh</hi> Man in <hi>France</hi> cheat the King of <hi>France</hi>'s Subjects of Twenty thouſand Pounds, it would ſoon be taken notice of by the Government, and ſuch Abuſes redreſs'd. This Credit is extremely prejudicial in ſeveral other Reſpects to the Cloathing Trade.</p>
+            <p n="6">VI. The next Inconveniency that our Woollen Manufa<g ref="char:EOLhyphen"/>ctures labours under, is the high Duties upon Oil, Soap, and Dye-ſtuff, which ſaid Commodities are obſerved to be much dearer in <hi>England,</hi> ſince the Impoſition of thoſe Duties, the free Importation being hereby hindred, and doth make a conſiderable Odds in the Value of our Manufa<g ref="char:EOLhyphen"/>ctures and thoſe made in <hi>France</hi> and <hi>Holland.</hi> Logwood pays Five Pounds <hi>per</hi> Tonn Cuſtom, and draws back, up<g ref="char:EOLhyphen"/>on Exportation, Four Pounds. Copperas and Allum, Com<g ref="char:EOLhyphen"/>modities peculiar to <hi>England,</hi> are delivered cheaper to the <hi>French</hi> and <hi>Dutch</hi> than to our own Manufacturers; which Commodities would bear a Duty upon Exportation. Al<g ref="char:EOLhyphen"/>lum ſold at Fourteen Pounds <hi>per</hi> Tonn, for Exportation,
+<pb n="11" facs="tcp:48943:6"/>
+at Fifteen Pounds Ten Shillings <hi>per</hi> Tonn to ſeveral Dyers <hi>London,</hi> and at Twenty Pounds <hi>per</hi> Tonn to the Clothi<g ref="char:EOLhyphen"/>ers, and to have but one Seller of Allum, which is the preſent Caſe, ſavours very much of Monopoly. Rape-Oil is at this time advanc'd to double the uſual Price, by the Ingroſſing of Rape-Seed, when to every Six Pound of We I one Pound of Oil is required to the working. Madder, the Growth of <hi>Holland,</hi> is rendred to us at three times the uſual Price: Which looks as a Conſpiracy to ſup<g ref="char:EOLhyphen"/>plant our Clothing Trade.</p>
+            <p n="7">VII. The Scarcity of Money, occaſion'd by our vaſt Ex<g ref="char:EOLhyphen"/>portation to the <hi>Eaſt-Indies,</hi> doth very much diſcourage our Clothing-Trade. Above Five hundred thouſand Pounds in Treaſure have been exported in leſs than twelve Months time, as appears by their Entries; and as large a Summ ſuppos'd to be taken in at <hi>Cales;</hi> Silver worth Five Shillings eight Pence <hi>per</hi> Ounce. This being brought home chiefly in Muſlins and Calico's, it hinders the Conſumption of the Flaxen Linens of <hi>Flanders, Ger<g ref="char:EOLhyphen"/>many,</hi> and <hi>Holland;</hi> which hath leſſen'd the Conſumption of above Twenty thouſand Cloths <hi>per Annum</hi> in thoſe Parts, and the Wear of conſiderable of our <hi>Norwich</hi> Stuffs at home, and forc'd the Linen Looms in thoſe Parts upon Woollen, to our further Prejudice.</p>
+            <p>The <hi>Spaniſh Netherlands</hi> finding that the Conſumption of their Linens were ſo much leſſen'd in <hi>England,</hi> were thereby induc'd, in their own Defence, to prohibit our Woollen Manufactures; and hereby the whole Trade of <hi>Chriſtendom</hi> is rendred un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſie.</p>
+            <p>The Caſe of Thouſands of Manufacturers in <hi>England,</hi> by this Foreign Management, is exactly the ſame with this Man that went down from <hi>Jeruſalem</hi> to <hi>Jerico,</hi> and fell among Thieves that robb'd him of his Raiment, wounded him, and left him half dead, (I wiſh I had no
+<pb n="12" facs="tcp:48943:7"/>
+Occaſion to add farther, quite ſtarved,) <hi>and by chance there came down a certain Priest that way, and when he ſaw him, he paſſed by on the other ſide:</hi> (Doubtleſs of the Ro<g ref="char:EOLhyphen"/>miſh Perſuaſion, who poſſibly, as ſome Men do now, might very much exclaim in his Thoughts againſt the vil<g ref="char:EOLhyphen"/>lainous Practices of thoſe Robbers who had thus barba<g ref="char:EOLhyphen"/>rouſly abus'd this poor Man; but was ſo far from lending a hand to his Aſſiſtance, that the Text tells us, <hi>he went on the other ſide.) And likewiſe a Levite, when he was at the Place, came and looked on him, and paſſed by on the other ſide:</hi> (One, in great probability, that might come from <hi>Geneva,</hi> who ſeemingly took a little more Conſideration of the Matter, <hi>he came and looked on him, and then paſſed by on the other ſide,</hi> and to ſatisfie himſelf, in not relieving of him, after he had, as it were, made a Judgment of his Circumſtances, in all likelihood he might attribute his Misfortunes to his own Idleneſs or Intemperance that brought him to this helpleſs Condition, and wiſh that bet<g ref="char:EOLhyphen"/>ter Care was taken in <hi>England</hi> to provide Work-Houſes and Houſes of Correction for ſuch idle People, after the Example of <hi>Holland,</hi> &amp;c.) <hi>But a certain Samaritane, as he journied, came where he was, and when he ſaw him, he had Compaſſion on him, and went to him, and bound up his Wounds, pouring in Oil and Wine, and ſet him on his own Beaſt,</hi> &amp;c. True Friend this!</p>
+            <p>The Circumſtances of our Woollen Manufactures, and the Man that fell among Thieves, being ſo much alike, it makes a little Reſemblance between this Prieſt and Levite, and our Commiſſioners of Trade; but I correct my ſelf, for it no way appears that theſe Men were under any other Obligation to his Relief, than common Kindneſs and good Neighbourhood.</p>
+            <p>Our Woollen Manufactures are perfectly unfortunate in the Age we live in; the Aulnage, which was deſign'd by
+<pb n="13" facs="tcp:48943:7"/>
+our Anceſtors to ſecure her Reputation, is now turn'd in<g ref="char:EOLhyphen"/>to the greateſt Oppreſſion; a formal Court kept up by Commiſſioners, Officers ſent out to lay a formal Arreſt up<g ref="char:EOLhyphen"/>on Goods, if the Nib of the Seal be not well ſtamp'd, and Judgment given amongſt themſelves: Of a little Re<g ref="char:EOLhyphen"/>ſemblance to <hi>Aeſop</hi>'s Court, where the Wolf ſate Judge, and ſummon'd the Lamb to appear. I hope this will fall under Conſideration with the reſt of the Grants, being carried on in <hi>England</hi> according to an <hi>Iriſh</hi> Underſtanding.</p>
+            <p>Trade being at a low ebb in <hi>England,</hi> and a great Scar<g ref="char:EOLhyphen"/>city of Money, during the Reign of <hi>Richard</hi> II. <hi>Henry</hi> IV. <hi>Henry</hi> V. and <hi>Henry</hi> VI. as appears by ſtrict Laws made in thoſe Reigns to force Merchant-Aliens to imploy their Money which they receiv'd for their Foreign Commodities upon the native Commodities of this Realm. In the 3d. and 4th. Year of <hi>Henry</hi> IV. the Woollen Manufactures of this King<g ref="char:EOLhyphen"/>dom came under the Conſideration of this good <hi>Samari<g ref="char:EOLhyphen"/>tane,</hi> and effectual Means were us'd for its Incouragement and Preſervation, which ſoon encreas'd our Trea<g ref="char:EOLhyphen"/>ſure.
+<note place="margin">Anno Tertio Edw. IV. Cap. 1</note> A Law was firſt made to incourage our <hi>Engliſh</hi> Navigation, and in that Law a Clauſe was added to prevent any Deceit which ſhould be wound up in Wool, upon a Forfeiture of 6 <hi>d.</hi> a Fleece, in which any Deceit ſhould be found. In the next place, a Law was made to prevent the Importation of wrought Silks: And then another Law was made
+<note place="margin">Cap. 3</note> to prevent the Importation of Woollen Cloths, Woollen Caps, Silk, in any wiſe imbroider'd, and many other Com<g ref="char:EOLhyphen"/>modities expreſs'd in the ſaid Law,
+<note place="margin">Cap. 4</note> which were prejudicial to the Artificers of ſundry manual Oc<g ref="char:EOLhyphen"/>cupations. To incourage the Wear of our Woollen Manufactures, a ſumptuary Law was
+<note place="margin">Cap. 5</note> next made: And the next Year a Law was made for the true making of our Woollen Manu<g ref="char:EOLhyphen"/>factures,
+<pb n="14" facs="tcp:48943:8"/>
+expreſſing in the Preamble the Inconveniencies which had enſued to the Realm by the deceitful making of Cloth; and good Care was taken in this Law,
+<note place="margin">Anno Quarto Edw. IV. Cap. 1</note> that Work-People ſhould do their Part faithfully; that the Maſter ſhould deliver juſt Weight, and pay them for their Labour in Money, and not Commodities.</p>
+            <p>A Law was next made,
+<note place="margin">Cap. 4</note> That no Perſon, during Three Years, ſhould buy or take any Promiſe of Bar<g ref="char:EOLhyphen"/>gain for any Wool then not ſhorn, of the Growth of <hi>Berks,</hi> &amp;c amounting to twenty eight Counties, before the ſame be ſhorn, and until <hi>Bartholomew</hi>'s <hi>Day</hi> following, but they which ſhall make Cloth or Yarn of them, upon pain of Forfeiture of double the Value thereof.</p>
+            <p>And the Duke of <hi>Burgundy</hi> having at this time prohibited our Woollen Manufactures in <hi>Flanders,</hi>
+               <note place="margin">Cap. 5</note> a Law was made to prohibite all Merchandiſe of the Growth and Work<g ref="char:EOLhyphen"/>manſhip of the ſaid Duke's Dominions, until he revoke his Proclamation, prohibiting our Manufactures.</p>
+            <p>The Charter of the Merchant-Adventurers of <hi>England</hi> was con<g ref="char:EOLhyphen"/>firmed by this King; and at this time he call'd in queſtion the Charter of the Merchants of the <hi>Stilliard,</hi> who had obtain'd Pri<g ref="char:EOLhyphen"/>vileges in <hi>England,</hi> for ſome extraordinary Services done, in aſ<g ref="char:EOLhyphen"/>ſiſting <hi>Henry</hi> III. in his Wars abroad, and they were permitted to Trade under theſe Terms, <hi>viz.</hi> To pay Aliens Duties, and to colour no Strangers Goods. Upon this juſt Foundation Trade was carried on until the End of the Reign of <hi>Henry</hi> VII. ſtrengthened only with this farther Addition in the laſt-recited Reign,
+<note place="margin">Anno Primo Hen. VII. Cap. 5</note> That no Perſon that was not a natural born Subject of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> ſhould be excuſed the Payment of Aliens Duties, if naturaliz'd by Act of Parliament.</p>
+            <p>During this time, the Affairs of <hi>England</hi> were in a flouriſhing Condition, a plentiful Imployment to the Poor; which was one great Occaſion of the Reconciliation of the Houſes of <hi>York</hi> and <hi>Lancaſter.</hi> During ſuch time that there is full Imployment for the Poor, the Deſigns of Great Perſons are no way to be execu<g ref="char:EOLhyphen"/>ted; which is a Matter of Moment to be conſider'd at this time: And the Stop of the Exportation of our Wool will thoroughly effect the Matter. The good Effect of this Settlement of Trade fully appear'd at the Death of this King, who left in the Trea<g ref="char:EOLhyphen"/>ſury One million eight hundred thouſand Pounds, which made above Three Millions of our Money.</p>
+            <p>
+               <pb n="15" facs="tcp:48943:8"/>
+In the laſt Year of this King's Reign there was a Change of Affairs, and the Merchants of the <hi>Stilliard</hi> obtain'd footing again, as appears by two Laws then made in their Favour. The two laſt Laws, except one that paſs'd in this Reign. <hi>Calice</hi> was at this time the grand Mart of <hi>Engliſh</hi> Goods,
+<note place="margin">Anno De<g ref="char:EOLhyphen"/>cimo Nono Hen. VII. Cap. 22</note> and there was a Law made in favour of the <hi>Engliſh</hi> Merchants, prohibiting the Men of <hi>Calice</hi> to be Factors for Merchant-Stran<g ref="char:EOLhyphen"/>gers living in <hi>England:</hi> Which Law was at this time repeal'd, and all Laws made in Derogation of the Mer<g ref="char:EOLhyphen"/>chants of the <hi>Stilliard</hi> were repeal'd. In the beginning of the Reign of <hi>Henry</hi> VIII.
+<note place="margin">Cap. 23</note> they got leave to Cuſtom one Man's Goods in the Name of another, and indeed were fa<g ref="char:EOLhyphen"/>vour'd this whole Reign; Aliens Duties were taken off by the King's Proclamation, which produc'd the like Effect that we feel at this time.
+<note place="margin">Anno 32. Hen. VIII. Cap. 15</note> They got the whole Trade into their hands, and it was with great difficulty recover'd in the Year 1552, the Fifth and Sixth Years of <hi>Edw.</hi> VI. in whoſe Journals it thus appears, That the Merchants of the <hi>Stil<g ref="char:EOLhyphen"/>liard</hi> ſhipp'd off Forty thouſand Cloaths, and our <hi>Engliſh</hi> Merchants not Four thouſand, and all was exported and imported in Foreign Bottoms. The <hi>Engliſh</hi> Merchants being at this low ebb, put in their Complaint to the King and Council againſt theſe Merchants of the <hi>Stilliard</hi> or <hi>Tutonicorum:</hi> And they gave in their Anſwer to the ſaid Complaint upon the 18th. Day of <hi>January;</hi> and upon the 25th. their Anſwer was deliver'd to ſome Learned Council to pe<g ref="char:EOLhyphen"/>ruſe it. Upon the 18th. Day of <hi>February</hi> the Merchant-Adventu<g ref="char:EOLhyphen"/>rers put in their Replication to the ſaid Anſwer; and upon the 23d. a Decree was made by the Board, That upon Knowledge and Information of their Charters, they had found, firſt, That they were no ſufficient Corporation; ſecondly, That their Names, Numbers, and Nations were unknown; thirdly, When <hi>Edw.</hi> IV. did reſtore them to their Privileges, it was upon the Condition they ſhould co<g ref="char:EOLhyphen"/>ver no Foreigners Goods, which they had done: For theſe Conſi<g ref="char:EOLhyphen"/>derations, Sentence was given, That they had forfeited their Li<g ref="char:EOLhyphen"/>berties, and were to be no more than Strangers. Upon the 28th. Day came Embaſſadors from <hi>Hamburgh, Lubeck,</hi> and the Regent of <hi>Flanders,</hi> to ſpeak upon the Behalf of theſe Merchants of the <hi>Stil<g ref="char:EOLhyphen"/>liard;</hi> and upon the 2d. of <hi>March</hi> the Anſwer was committed to the Lord Chancellor, the two Secretaries, Sir <hi>Robert Bows,</hi> and Sir <hi>John Baker,</hi> Judge <hi>Mountague Griffith;</hi> Sollicitors, <hi>Goſnald, Goodrick,</hi> and <hi>Brooks.</hi> It remained under Conſideration until the
+<pb n="16" facs="tcp:48943:9"/>
+1ſt. Day of <hi>May,</hi> and then the Merchants of the <hi>Stilliard</hi> receiv'd their full Anſwer, confirming the former Judgment of the Council. This gave Incouragement to a great many <hi>Engliſh</hi> Merchants to come into this Company; and in <hi>October</hi> 3. following, they ſhipp'd off Forty thouſand Cloaths. At this time our Woollen Manufa<g ref="char:EOLhyphen"/>ctures came again under the Conſideration of the good <hi>Samaritane,</hi> being miſerably debas'd by theſe Merchants of the <hi>Stilliard,</hi> as ap<g ref="char:EOLhyphen"/>pears by the Preamble of the Statute,
+<note place="margin">Anno 5. &amp; 6. Edw. VI. cap. 6</note> and ſeveral di<g ref="char:EOLhyphen"/>ſcreet and ſage Knights and Burgheſſes undertook the Matter, by conſulting divers honeſt Clothiers, Woollen-Drapers, <hi>&amp;c.</hi> a Law was made with great Caution to ſuppreſs Wool-broggers, who were got to a great heighth. And upon this Foundation Trade was carried on the whole Reign of Queen <hi>Elizabeth,</hi> and never wholly thrown open until the Year 1663. What is here aſſerted is Matter of Fact, and I appeal to the niceſt Hiſtorian, whether the Affairs of <hi>England</hi> were not in a much more flouriſhing Condition, from <hi>Edward</hi> IV. to the End of <hi>Henry</hi> VII. and from <hi>Edward</hi> VI. to the End of Queen <hi>Elizabeth,</hi> than it hath been during ſuch time that Trade was laid open to Merchant-Aliens. Never was greater Marks of Kindneſs ſhewn by any Prince than ours, by repeated Recommendations of the Care of Trade; nay, at laſt in Words at length, by a Bill to incourage the fair Merchant, our Manufactures, and diſcourage clandeſtine Trading: And the Hardſhips which have been under<g ref="char:EOLhyphen"/>gone by our Poor, through the Neglect thereof, had never been born but from the entire Satisfaction and Confidence in His Maje<g ref="char:EOLhyphen"/>ſty's Favour. <hi>England</hi> is ſaid to be a mighty Animal that will never die, unleſs it deſtroy it ſelf. No Age can produce more unnatural Inſtances than ours, nor was ever the true Intereſt of <hi>England,</hi> in point of Trade, more in danger of being ſupplanted by her own Sons. And thus I leave our Woollen Manufactures, Queen <hi>Elizabeth</hi>'s Mines, and the <hi>Indies</hi> of <hi>England,</hi> to Conſide<g ref="char:EOLhyphen"/>ration under the unfortunate Circumſtances of poor <hi>Beliſarus,</hi>
+               <note place="margin">Date obo<g ref="char:EOLhyphen"/>lum Beli<g ref="char:EOLhyphen"/>ſario, quem invidia, non culpa caecavit.</note> and with the like Inſcription as he had wrote upon his Breaſt, <hi>Dum Spiro Spero.</hi>
+            </p>
+            <pb facs="tcp:48943:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
